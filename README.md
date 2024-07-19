@@ -20,7 +20,10 @@ go get github.com/jackc/pgx/stdlib
 go get go.mongodb.org/mongo-driver/mongo
 go get go.mongodb.org/mongo-driver/mongo/options
 ~~~
-
+- URL CONNECTION MONGDB COMPASS
+~~~
+mongodb://admin:password@localhost:27020/logs?authSource=admin
+~~~
 # Docker
 
 ```
