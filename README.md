@@ -24,6 +24,12 @@ go get go.mongodb.org/mongo-driver/mongo/options
 ~~~
 mongodb://admin:password@localhost:27020/logs?authSource=admin
 ~~~
+
+# Install Mail
+~~~
+go get github.com/vanng822/go-premailer/premailer
+go get github.com/xhit/go-simple-mail/v2
+~~~
 # Docker
 
 ```
