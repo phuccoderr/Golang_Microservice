@@ -30,6 +30,11 @@ mongodb://admin:password@localhost:27020/logs?authSource=admin
 go get github.com/vanng822/go-premailer/premailer
 go get github.com/xhit/go-simple-mail/v2
 ~~~
+
+# Install RabbitMQ
+~~~
+go get github.com/rabbitmq/amqp091-go
+~~~
 # Docker
 
 ```
